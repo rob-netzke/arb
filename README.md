@@ -18,7 +18,7 @@ interest rate risk: i did not account for this risk in the algorithm, but there 
 
 early assignment risk: similar to the pin risk, there is a change one leg of the order is executed in an American-style option and the rest of the legs will have to be closed. 
 
-dividend risk: if you are expecting a dividend from holding a stock in your calculation and you don't get one, that's not good.
+dividend risk: if you are expecting a dividend from holding a stock when entering the position and you don't get one, that's not good.
 
 ## methodology
 
