@@ -36,15 +36,15 @@ Starting with some definitions:
 
 - synthetic: the combination of a call and a put to behave exactly as 100 shares of the underlying. a long synthetic consists of buying a call and shorting a put, this   behaves the same as longing 100 shares of the underlying. conversely, a short syntheic consits of shorting a call and buying a put, this behaves the same as selling   short 100 sahres of the underlying
 
-# reversal
+### reversal
 
 a reversal is a situation where it is advantegous to sell short 100 shares of the underlying and simultaneously purchase a synthetic long. this occurs when C(K) - P(K) < S - K which implies C(K) - P(K) - S + K < 0. if executed and held to execution, the difference between the price of underlying and the price of the synthetic long is the profit of the trade.
 
-# conversion
+### conversion
 
 a conversion is just the opposite of a reversal. it is a situation where it is advantegous to long 100 shares of the underlying and simultaneously purchase a synthetic short. this occurs when C(K) - P(K) > S - K which implies C(K) - P(K) - S + K > 0. the profit is the difference as described in the reversal.
 
-# box spread
+### box spread
 
 a box spread is may be defined as the combination of a reversal and a converion. if there is a profitable reversion at a strike lower than a profitable conversion, a trader may execute the reversal and conversion simulatenously. in total, the trader profits the difference of the distance between the two strikes and the value the box spread is purchased for. a trader could also sell boxes, but the box spread algorithm only considers buying them. 
 
