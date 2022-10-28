@@ -34,7 +34,7 @@ starting with some definitions:
 
 - put-call parity: there is no advantage in the stock or option market, by definition: C(K) - P(K) = S - K
 
-- synthetic: the combination of a call and a put to behave exactly as 100 shares of the underlying. a long synthetic consists of buying a call and shorting a put, this   behaves the same as longing 100 shares of the underlying. conversely, a short syntheic consits of shorting a call and buying a put, this behaves the same as selling   short 100 sahres of the underlying
+- synthetic: the combination of a call and a put that behaves exactly as 100 shares of the underlying. a long synthetic consists of buying a call and shorting a put, this   behaves the same as longing 100 shares of the underlying. conversely, a short syntheic consits of shorting a call and buying a put, this behaves the same as selling   short 100 sahres of the underlying
 
 ### reversal
 
