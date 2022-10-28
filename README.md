@@ -22,7 +22,7 @@ dividend risk: if you are expecting a dividend from holding a stock when enterin
 
 ## methodology
 
-Starting with some definitions:
+starting with some definitions:
 
 - C(K): the call price at strike K (this price depends on if you are trying to buy or sell the option)
 
