@@ -46,7 +46,7 @@ a conversion is just the opposite of a reversal. it is a situation where it is a
 
 ### box spread
 
-a box spread is may be defined as the combination of a reversal and a converion. if there is a profitable reversion at a strike lower than a profitable conversion, a trader may execute the reversal and conversion simulatenously. in total, the trader profits the difference of the distance between the two strikes and the value the box spread is purchased for. a trader could also sell boxes, but the box spread algorithm only considers buying them. 
+a box spread may be defined as the combination of a reversal and a converion. if there is a profitable reversion at a strike lower than a profitable conversion, a trader may execute the reversal and conversion simulatenously. in total, the trader profits the difference of the distance between the two strikes and the value the box spread is purchased for. a trader could also sell boxes, but the box spread algorithm only considers buying them. 
 
 ## description of algorithms
 
